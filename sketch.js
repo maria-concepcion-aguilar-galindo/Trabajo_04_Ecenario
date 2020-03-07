@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(205, 243, 240);
 
   translate(width / 2, height / 2);
   var newzoom = 64 / blob.r;
